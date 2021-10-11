@@ -1,0 +1,22 @@
+export const GET_CONTACTS_LOAD="GET_CONTACTS_LOAD"
+export const GET_CONTACTS_SUCCES="GET_CONTACTS_SUCCES"
+export const GET_CONTACTS_FAIL="GET_CONTACTS_FAIL"
+
+
+
+export const TOGGLE_TRUE="TOGGLE_TRUE"
+export const TOGGLE_FALSE="TOGGLE_FALSE"
+
+// get one contact
+export const GET_ONE_CONTACT_SUCC="GET_ONE_CONTACT_SUCC"
+export const GET_ONE_CONTACT_FAIL="GET_ONE_CONTACT_FAIL"
+
+//post Contact
+
+
+export const POST_CONTACT_FAIL="POST_CONTACT_FAIL"
+
+//edit contact 
+
+export const EDIT_CONTACT_FAIL="EDIT_CONTACT_FAIL"
+export const EDIT_MSG="DIT_MSG"
